@@ -66,7 +66,7 @@ namespace Fundamentos_Hardware
             x++;
             if(x>=25)
             {
-                descricao.Text = "Instituto Federal de Ciência e Tecnologia Catarinense - Campus Sombrio [19/05/2018]\nProfessor: Armando Mendes Neto\nDesenvolvedor: Bruno Rosa da Silva\nImagens: Joel Boff Teixeira\nOlheiro: Andrey Schwank Machado";
+                descricao.Text = "Instituto Federal de Ciência e Tecnologia Catarinense - Campus Sombrio [19/05/2018]\nProfessor: Armando Mendes Neto\nDesenvolvedor: Bruno Rosa da Silva\nImagens: Joel Boff Teixeira\nAjuda tecnica: Andrey Schwank Machado";
             }
             else
             {
