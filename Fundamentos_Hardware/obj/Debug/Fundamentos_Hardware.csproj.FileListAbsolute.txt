@@ -1,0 +1,15 @@
+c:\users\bruno\documents\visual studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\bin\Debug\Fundamentos_Hardware.exe.config
+c:\users\bruno\documents\visual studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\bin\Debug\Fundamentos_Hardware.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\bin\Debug\Fundamentos_Hardware.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\obj\Debug\Fundamentos_Hardware.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\obj\Debug\MainWindow.g.cs
+c:\users\bruno\documents\visual studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\obj\Debug\App.g.cs
+c:\users\bruno\documents\visual studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\obj\Debug\Fundamentos_Hardware_MarkupCompile.cache
+c:\users\bruno\documents\visual studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\obj\Debug\Fundamentos_Hardware_MarkupCompile.lref
+c:\users\bruno\documents\visual studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\obj\Debug\MainWindow.baml
+c:\users\bruno\documents\visual studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\obj\Debug\Fundamentos_Hardware.g.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\obj\Debug\Fundamentos_Hardware.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\obj\Debug\Fundamentos_Hardware.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\obj\Debug\Fundamentos_Hardware.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\obj\Debug\Fundamentos_Hardware.pdb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Fundamentos_Hardware\Fundamentos_Hardware\obj\Debug\Img\ControleImagens.baml
