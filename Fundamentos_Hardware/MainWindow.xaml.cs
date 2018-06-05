@@ -128,7 +128,7 @@ namespace Fundamentos_Hardware
                     txt = "9- ...e flat.";
                     break;
                 case 15:
-                    txt = "10- Ecaixar a tampa e parafusá-la.\n(FIM!)";
+                    txt = "10- Encaixar a tampa e parafusá-la.\n(FIM!)";
                     break;
                 case 16:
                     txt = "Agora que tudo está pronto, até seu totó vai querer jogar com você :)";
